@@ -14,11 +14,30 @@ OBJECTIVES :
 
 FEATURES :
 
-<img width="1582" height="2268" alt="image" src="https://github.com/user-attachments/assets/1b8ca2a4-c1f1-4879-ab84-5a2fd42781c0" />
+
+✅ Add Tasks
+
+✅ Edit Tasks
+
+✅ Delete Tasks
+
+✅ Task Priority Management
+
+✅ Local Storage
+
+✅ Deadline Tracking
+
+✅ Notifications and Reminders
+
+✅ Cross-Platform Support
 
 
 TECHNOLOGIES USED :
 
-<img width="4005" height="2268" alt="image" src="https://github.com/user-attachments/assets/7fe55cc5-e661-44de-9ab7-f85ba14d0932" />
+Flutter
+Dart
+Hive / SQLite
+Provider State Management
+Flutter Local Notifications
 
 
