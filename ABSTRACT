@@ -1,0 +1,6 @@
+Abstract
+Priority Manager: A Flutter-Based Task Management Application
+
+In today's fast-paced environment, individuals often face difficulties in managing multiple tasks, meeting deadlines, and maintaining productivity. The lack of proper task organization can lead to missed responsibilities, inefficient time management, and increased stress. To address these challenges, this project presents Priority Manager, a cross-platform mobile application developed using Flutter that helps users efficiently organize and prioritize their daily activities.
+
+The application enables users to create, edit, delete, and manage tasks while assigning priority levels such as High, Medium, and Low. By categorizing tasks according to their importance, users can focus on critical activities first and improve overall productivity. The system provides an intuitive and user-friendly interface that displays tasks in a structured manner, making it easier to track progress and upcoming responsibilities.
