@@ -15,3 +15,5 @@ The application also supports local data storage, allowing task information to b
 
 Developed using Flutter and Dart, the project demonstrates modern mobile application development practices, including responsive user interface design, state management, and data persistence. 
 The cross-platform nature of Flutter allows the application to run seamlessly on both Android and iOS devices while maintaining a consistent user experience.
+The Priority Manager application serves as a practical productivity solution for students, professionals, and individuals seeking better task organization. 
+Furthermore, the project highlights the effectiveness of Flutter in building scalable and user-friendly mobile applications that contribute to improved time management and daily efficiency.
