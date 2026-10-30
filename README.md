@@ -10,7 +10,11 @@ PROBLEM STATEMENT :
 
 OBJECTIVES : 
 
-<img width="4032" height="1442" alt="image" src="https://github.com/user-attachments/assets/279f4294-c21c-4e02-bee5-941865acae28" />
+* Develop a cross-platform task management application.
+* Implement task prioritization.
+* Improve productivity through better organization.
+* Track task completion status.
+* Provide reminder notifications
 
 FEATURES :
 
@@ -35,9 +39,13 @@ FEATURES :
 TECHNOLOGIES USED :
 
 Flutter
+
 Dart
+
 Hive / SQLite
+
 Provider State Management
+
 Flutter Local Notifications
 
 
