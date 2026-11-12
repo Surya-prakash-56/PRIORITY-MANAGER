@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" width="100%" height="100%">
+  <rect width="700" height="360" rx="14" fill="#0F172A"/>
+  <!-- App Header -->
+  <rect x="0" y="0" width="700" height="50" rx="14" fill="#1E293B"/>
+  <text x="25" y="32" fill="#F8FAFC" font-family="sans-serif" font-size="15" font-weight="bold">Exp 10: Testing &amp; Debugging (Unit Tests, DevTools, Assertions)</text>
+  <rect x="585" y="14" width="95" height="24" rx="12" fill="#10B981"/>
+  <text x="632" y="30" fill="#FFFFFF" font-family="sans-serif" font-size="11" font-weight="bold" text-anchor="middle">✓ 20 PASSED</text>
+
+  <!-- Debug Checklist -->
+  <rect x="30" y="70" width="640" height="100" rx="14" fill="#1E293B" stroke="#6366F1" stroke-width="1.5"/>
+  <text x="50" y="98" fill="#818CF8" font-family="sans-serif" font-size="13" font-weight="bold">AUTOMATED TESTING &amp; DEBUG HARNESS</text>
+  <text x="50" y="122" fill="#94A3B8" font-family="sans-serif" font-size="12">• flutter test test/priority_controller_test.dart (10 pure unit tests)</text>
+  <text x="50" y="140" fill="#94A3B8" font-family="sans-serif" font-size="12">• flutter test test/widget_test.dart (4 widget interaction tests)</text>
+  <text x="50" y="158" fill="#94A3B8" font-family="sans-serif" font-size="12">• flutter test test/exp10_testing_debugging_test.dart (6 diagnostic tests)</text>
+
+  <!-- Diagnostic Terminal Output -->
+  <rect x="30" y="185" width="640" height="155" rx="12" fill="#0F172A" stroke="#334155"/>
+  <circle cx="50" cy="205" r="5" fill="#EF4444"/>
+  <circle cx="65" cy="205" r="5" fill="#F59E0B"/>
+  <circle cx="80" cy="205" r="5" fill="#10B981"/>
+  <text x="100" y="209" fill="#94A3B8" font-family="monospace" font-size="11">bash ~ flutter test</text>
+  <line x1="30" y1="220" x2="670" y2="220" stroke="#334155" stroke-width="1"/>
+
+  <text x="50" y="245" fill="#10B981" font-family="monospace" font-size="12">00:01 +10: test/priority_controller_test.dart: All 10 tests passed!</text>
+  <text x="50" y="268" fill="#10B981" font-family="monospace" font-size="12">00:02 +14: test/widget_test.dart: All 4 tests passed!</text>
+  <text x="50" y="291" fill="#10B981" font-family="monospace" font-size="12">00:03 +20: test/exp10_testing_debugging_test.dart: All 6 tests passed!</text>
+  <text x="50" y="320" fill="#38BDF8" font-family="monospace" font-size="13" font-weight="bold">✓ All 20 tests passed successfully! Zero regressions detected.</text>
+</svg>

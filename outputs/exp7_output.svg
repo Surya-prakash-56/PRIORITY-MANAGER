@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 370" width="100%" height="100%">
+  <rect width="700" height="370" rx="14" fill="#0F172A"/>
+  <!-- App Header -->
+  <rect x="0" y="0" width="700" height="50" rx="14" fill="#1E293B"/>
+  <text x="25" y="32" fill="#F8FAFC" font-family="sans-serif" font-size="15" font-weight="bold">Exp 7: Forms, GlobalKey Validation &amp; Error Handling</text>
+
+  <!-- Form Container -->
+  <rect x="35" y="70" width="630" height="240" rx="14" fill="#1E293B" stroke="#334155"/>
+  
+  <text x="55" y="105" fill="#F8FAFC" font-family="sans-serif" font-size="14" font-weight="bold">Create Priority Task Form (GlobalKey&lt;FormState&gt;)</text>
+
+  <!-- Title Input -->
+  <rect x="55" y="120" width="590" height="40" rx="8" fill="#0F172A" stroke="#10B981"/>
+  <text x="70" y="145" fill="#F8FAFC" font-family="sans-serif" font-size="13">Audit database connection pool</text>
+  <text x="635" y="145" fill="#10B981" font-family="sans-serif" font-size="12" text-anchor="end">✓ Valid</text>
+
+  <!-- Priority Dropdown -->
+  <rect x="55" y="170" width="285" height="40" rx="8" fill="#0F172A" stroke="#334155"/>
+  <text x="70" y="195" fill="#EF4444" font-family="sans-serif" font-size="13" font-weight="bold">Priority: Urgent (P1)</text>
+
+  <!-- Duration Input -->
+  <rect x="360" y="170" width="285" height="40" rx="8" fill="#0F172A" stroke="#10B981"/>
+  <text x="375" y="195" fill="#F8FAFC" font-family="sans-serif" font-size="13">45 mins</text>
+  <text x="635" y="195" fill="#10B981" font-family="sans-serif" font-size="12" text-anchor="end">✓ Valid</text>
+
+  <!-- Submit Button -->
+  <rect x="55" y="235" width="590" height="42" rx="10" fill="#6366F1"/>
+  <text x="350" y="261" fill="#FFFFFF" font-family="sans-serif" font-size="13" font-weight="bold" text-anchor="middle">Validate &amp; Submit Task</text>
+
+  <!-- SnackBar Alert -->
+  <rect x="80" y="325" width="540" height="35" rx="8" fill="#10B981"/>
+  <text x="350" y="347" fill="#FFFFFF" font-family="sans-serif" font-size="12" font-weight="bold" text-anchor="middle">✓ Task "Audit database connection pool" (45 mins, Urgent) created successfully!</text>
+</svg>
